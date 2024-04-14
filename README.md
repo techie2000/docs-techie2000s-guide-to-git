@@ -7,4 +7,6 @@ The plan (for now at least) is that most things will be in the [wiki](../../wiki
 
 # Useful links
 
-[GitHub Docs](https://docs.github.com/en)
+[GitHub Docs](https://docs.github.com/en) - to massively extend the scope and depth of topics covered in this repo.
+
+[Mermaid live](https://mermaid.live/) - to make writing/producing diagrams as code (DAC) easier.
